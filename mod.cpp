@@ -1,0 +1,16 @@
+name = "Task Force Domino Factions";
+author = "[HH] Elfin"
+actionName = "Context";
+action = "https://youtu.be/Y4WHiSSri4k";
+description = "Task Force Domino Factions adds the factions from TF Domino's extended universe into Arma 3.";
+tooltip = "Task Force Domino Factions";
+tooltipOwned = "Task Force Domino Factions";
+picture = "\Data_F_Domino\Logos\dmno_picture_CA.paa";
+logo = "\Data_F_Domino\Logos\dmno_logo_CA.paa";
+logoOver = "\Data_F_Domino\Logos\dmno_logoOver_CA.paa";
+logoSmall = "\Data_F_Domino\Logos\dmno_logo_small_CA.paa";
+dlcColor[] ={0.32,0.38,0.04,1.0};
+overview = "Task Force Domino Factions adds the factions from TF Domino's extended universe into Arma 3.";
+overviewText = "Task Force Domino Factions adds the factions from TF Domino's extended universe into Arma 3.";
+hideName = 1;
+hidePicture = 0;

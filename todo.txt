@@ -1,0 +1,8 @@
+Uniforms/Equipment
+	Combat Fatigues [JTSEC] - rescale patch to fit shiny texture
+	Other carrier rig
+	Lightning Hellhounds patch
+Units/Groups
+	JTSF configs
+	Rifle squad, all soldier configs
+	Re implement vehicle setup
