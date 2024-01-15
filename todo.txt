@@ -6,3 +6,45 @@ Units/Groups
 	JTSF configs
 	Rifle squad, all soldier configs
 	Re implement vehicle setup
+
+BLUFOR
+JT Security
+	Cars
+		Ford Focus ST
+	Helicopters
+		AH-36 Razor
+		UH-666 Bald Hawk
+	Men (Army)
+		Ammo Bearer
+		Autorifleman
+		Combat Life Saver
+		Marksman
+		Radio Operator
+		Rifleman
+		Rifleman (AT)
+		Squad Leader
+		Team Leader
+	Men (Contractors)
+		Contractor
+		Engineer
+		Field Manager
+		Paramedic
+	Men (Special Forces)
+		JTSF Air Defence Specialist
+		JTSF Anti-Armor Specialist
+		JTSF Explosives Specialist
+		JTSF JTAC
+		JTSF Pilot
+		JTSF Pointman
+		JTSF Repair Specialist
+		JTSF Sharpshooter
+		JTSF Team Leader
+
+OPFOR
+Manchester People's Union
+	Men (Army)
+		Watchman
+	Men (Conscripts)
+		Watchman
+	Men (Special Forces)
+		Timepiece Operator
